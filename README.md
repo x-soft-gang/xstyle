@@ -1,2 +1,2 @@
-# xstyle
+# Xstyle
 CSS style kits
